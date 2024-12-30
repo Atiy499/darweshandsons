@@ -1,0 +1,265 @@
+body {
+    font-family: Arial, sans-serif;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 10px 20px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+nav a:hover {
+    background-color: #555;
+}
+.menu {
+    display: flex;
+    gap: 10px;
+}
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Applying the background photo */
+  .background {
+    background-image: url(website.jpg); /* Replace with your image path */
+    background-size: cover; /* Makes the image cover the entire element */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
+    height: 100vh; /* Full viewport height */
+    width: 100%; /* Full width */
+  }
+
+  .content h1 {
+   font-size: 2.5rem;
+   color: #222;
+   text-align: center;
+   margin-bottom: 10px;
+}
+
+.content p {
+   font-size: 1.2rem;
+   color: #666;
+   text-align: center;
+   margin-top: 0;
+}
+
+
+  body {
+    background: linear-gradient(to right, grey, rgb(2, 26, 2));
+  }
+  
+
+ body{
+    margin: 0%;
+    font-family: sans-serif;
+ }
+
+ .section{
+    background-color: #252121;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 60%;
+    margin: 5rem auto 0 auto;
+ }
+
+ .section img{
+    height: 250px;
+   
+ }
+
+ .section h1{
+    color: greenyellow;
+    margin: 0%;
+ }
+
+ .section p{
+    color: whitesmoke;
+    margin-right: 15px;
+
+ }
+
+ body{
+    margin: 0%;
+    font-family: sans-serif;
+ }
+
+ .section-B{
+    background-color: #252121;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 60%;
+    margin: 5rem auto 0 auto;
+ }
+
+ .section-B img{
+    height: 250px;
+   
+ }
+
+ .section-B h1{
+    color: greenyellow;
+    margin: 0%;
+ }
+
+ .section-B p{
+    color: whitesmoke;
+    margin-right: 15px;
+
+ }
+
+ body{
+    margin: 0%;
+    font-family: sans-serif;
+ }
+
+ .section-C{
+    background-color: #252121;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 60%;
+    margin: 5rem auto 0 auto;
+ }
+
+ .section-C img{
+    height: 250px;
+   
+ }
+
+ .section-C h1{
+    color: greenyellow;
+    margin: 0%;
+ }
+
+ .section-C p{
+    color: whitesmoke;
+    margin-right: 15px;
+
+ }
+
+ body{
+    margin: 0%;
+    font-family: sans-serif;
+ }
+
+ .section-D{
+    background-color: #252121;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 60%;
+    margin: 5rem auto 0 auto;
+ }
+
+ .section-D img{
+    height: 250px;
+   
+ }
+
+ .section-D h1{
+    color: greenyellow;
+    margin: 0%;
+ }
+
+ .section-D p{
+    color: whitesmoke;
+    margin-right: 15px;
+
+ }
+
+ form.content-left {
+   display: flex;
+   flex-direction: column;
+   width: 50%;
+   margin: auto;
+   padding: 20px;
+   background-color: #333;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.content-container {
+   margin-top: 5rem; /* Adds spacing after Section D */
+   padding: 20px;    /* Adds padding inside the contact box */
+   background-color: #333; /* Optional: Ensures the background of the form is distinct */
+   border-radius: 10px; /* Keeps the rounded edges of the box */
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a shadow for better separation */
+   width: 60%; /* Centers the form with the same width as the sections */
+   margin-left: auto; /* Center alignment */
+   margin-right: auto; /* Center alignment */
+}
+
+.content-left-title {
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.content-left-title h2 {
+   color: white;
+   font-size: 24px;
+   margin: 0;
+}
+
+.content-left-title hr {
+   width: 50px;
+   border: 2px solid greenyellow;
+   margin: 10px auto 0 auto;
+}
+
+.content-inputs {
+   width: 100%;
+   padding: 10px;
+   margin-bottom: 15px;
+   border: 1px solid #555;
+   border-radius: 5px;
+   font-size: 16px;
+   background-color: #222;
+   color: white;
+}
+
+.content-inputs::placeholder {
+   color: #aaa;
+}
+
+button[type="submit"] {
+   padding: 10px;
+   border: none;
+   border-radius: 5px;
+   font-size: 16px;
+   color: white;
+   background-color: greenyellow;
+   cursor: pointer;
+   transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+   background-color: darkgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+ 
